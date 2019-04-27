@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathWithMaxSumFinder", "PathWithMaxSumFinder\PathWithMaxSumFinder.csproj", "{CD89EB16-74E0-4C6B-B935-0BC0D8FE4264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{84C97A72-2296-4FCA-9A2E-22F574823AA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10C38A0C-12C2-4EB2-9FAE-53BF38AD3B77}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD89EB16-74E0-4C6B-B935-0BC0D8FE4264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD89EB16-74E0-4C6B-B935-0BC0D8FE4264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD89EB16-74E0-4C6B-B935-0BC0D8FE4264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD89EB16-74E0-4C6B-B935-0BC0D8FE4264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C97A72-2296-4FCA-9A2E-22F574823AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C97A72-2296-4FCA-9A2E-22F574823AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C97A72-2296-4FCA-9A2E-22F574823AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C97A72-2296-4FCA-9A2E-22F574823AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695EC0B7-8EFF-4F32-BFA5-6EDC6ED0F0B4}
+	EndGlobalSection
+EndGlobal
